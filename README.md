@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikrajoria&label=Profile%20views&color=0e75b6&style=flat" alt="ritikrajoria" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rajoriaritik" target="blank"><img src="https://img.shields.io/twitter/follow/rajoriaritik?logo=twitter&style=for-the-badge" alt="rajoriaritik" /></a> </p>
 
 - 🔭 I’m currently working on [FireNotes](https://github.com/RitikRajoria/Notes-App-Flutter)
 
